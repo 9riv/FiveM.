@@ -1,5 +1,5 @@
 local Bypasses = {
-	['fuck'] = 'fˁucˁk',
+	['\217\131\216\179\217\133\217\131'] = 'fˁucˁk',
 	['bitch'] = 'bitˁch',
 	['whore'] = 'whoˁre',
 	['fucker'] = 'fuˁcker',
